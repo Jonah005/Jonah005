@@ -18,7 +18,7 @@ I focus on designing and building practical AI systems, with particular interest
 
 ## 🔐 AI Security
 
-A major area of my work focuses on the security and evaluation of LLM-powered systems, including:
+I have worked on the security and evaluation of LLM-powered systems, including:
 
 - Prompt injection testing
 - Adversarial LLM evaluation
