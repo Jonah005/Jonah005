@@ -57,5 +57,5 @@ My research interests include LLM-based software engineering, AI security, agent
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/jonah-varghese-kachirackal-3a6466437
 - Hugging Face: https://huggingface.co/Tear1212
