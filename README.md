@@ -1,4 +1,4 @@
-# Hi, I'm Jonah 👋
+# Hi, I'm Jonah
 
 I'm an AI/ML Engineer based in Dubai, UAE, with an MSc in Artificial Intelligence and Machine Learning.
 
